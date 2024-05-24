@@ -11,10 +11,10 @@
 # 💼 Professional Experience:
 Tech Mahindra: Automated processes, optimized database queries, and maintained dashboards, resulting in significant efficiency improvements.
 Led projects like Hush Hush Recruiter Candidate Selection and Integrated Data Pipeline, showcasing my expertise in data extraction, preprocessing, and model implementation.
-🔗 Let's connect!
 
-# LinkedIn : https://www.linkedin.com/in/rakesh-hs/
-# Email    : hsrakesh70@gmail.com
+#🔗 Let's connect!
+## LinkedIn : https://www.linkedin.com/in/rakesh-hs/
+## Email    : hsrakesh70@gmail.com
 <!--
 **Rakesh-Seenu/Rakesh-Seenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
