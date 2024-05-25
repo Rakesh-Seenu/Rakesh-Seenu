@@ -6,7 +6,7 @@
 
 ## Programming Languages: Python, SQL, R, HTML
 ## Technologies & Tools: Machine Learning, Tableau, GitHub, MS Excel, Jupyter Notebook, GCP, Anaconda, SAS, Visual Studio
-## Specializations: Data Analytics, Data Mining, Big Data, NLP, Automation
+## Specializations: Data Analytics, Data Mining, Big Data, NLP, Automation, ML, Gen AI
 
 # 💼 Professional Experience:
 Tech Mahindra: Automated processes, optimized database queries, and maintained dashboards, resulting in significant efficiency improvements.
