@@ -80,6 +80,5 @@ SQL - MySQL for Data Analytics
 Tableau Desktop 10 & SAS Certification
 
 # 🌐 Connect with Me
-* GitHub: github.com/Rakesh-Seenu
-* LinkedIn: linkedin.com/in/rakesh-hs
+* LinkedIn: https://www.linkedin.com/in/rakesh-hs/
 * Email: hsrakesh70@gmail.com
