@@ -47,13 +47,14 @@ Tech Stack: Power BI, Data Profiling, Data Cleaning
 
 # 💼 Professional Experience
 * Tech Mahindra, Bengaluru, India
- Automation Testing (Mar 2022 – June 2023)
+  
+Automation Testing (Mar 2022 – June 2023)
 Automated 7+ processes using Perl and Python, improving workflow efficiency by 18%.
 Optimized database queries, contributing to faster data retrieval times.
 Maintained dashboards for real-time tracking and reporting.
 Coordinated with project managers to meet development timelines and reduce manual effort by 40%.
 
- Associate Software Engineer (Aug 2021 – Feb 2022)
+Associate Software Engineer (Aug 2021 – Feb 2022)
 Resolved 30+ software bugs, improving system performance and reliability.
 Executed 40+ test scripts, achieving a 95% defect resolution success rate.
 
@@ -79,6 +80,6 @@ SQL - MySQL for Data Analytics
 Tableau Desktop 10 & SAS Certification
 
 # 🌐 Connect with Me
-GitHub: github.com/Rakesh-Seenu
-LinkedIn: linkedin.com/in/rakesh-hs
-Email: hsrakesh70@gmail.com
+* GitHub: github.com/Rakesh-Seenu
+* LinkedIn: linkedin.com/in/rakesh-hs
+* Email: hsrakesh70@gmail.com
