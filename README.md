@@ -21,30 +21,6 @@ Git, Docker, Google Cloud SDK, API Integration, MS Office (Excel, Word, PowerPoi
 * Soft Skills
 Leadership, Team Collaboration, Communication, Agile Methodology, Multi-tasking
 
-# 🛠️ Projects
-*  German Biography Generator
-Developed a summarization tool using a large language model (LLM) to generate concise German biographies from various document formats (Word, CSV, PDF). Focused on coherence and exception handling.
-Tech Stack: NumPy, Pandas, Flask, API, NLP
-
-* Hush Hush Recruiter Candidate Selection
-Led a project to streamline candidate selection by extracting GitHub data via APIs, applying K-means clustering for filtering, and automating candidate communication through emails.
-Tech Stack: Scikit-learn, NumPy, Pandas, SQLite, Vercel
-
-* Data Pipeline Project
-Constructed a data pipeline integrating data fetching, processing, and storage in Google BigQuery, with visualizations in Tableau. Docker and GCP SDK were utilized for seamless setup and portability.
-Tech Stack: Docker, MySQL, Google BigQuery, Tableau, Google Cloud SDK
-
-* Integrated Data Pipeline: Hadoop, Scraping, DB, Testing
-Developed a data scraping solution for an anime-related website, orchestrated scalable Hadoop infrastructure, and handled data analysis using HDFS, MySQL, and SQLite.
-Tech Stack: Docker, Hadoop, PySpark, Scrapy, MySQL, GCP
-
-* Chatbot using RAG (Retrieval-Augmented Generation)
-Built a chatbot using the LLAMA3 RAG model to assist students in answering queries by orchestrating multiple modules.
-
-* Prime Video Data Analysis with Power BI
-Designed an interactive Power BI dashboard to analyze Prime Video content, offering insights for production strategies and enhancing audience engagement.
-Tech Stack: Power BI, Data Profiling, Data Cleaning
-
 # 💼 Professional Experience
 * Tech Mahindra, Bengaluru, India
   
