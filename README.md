@@ -16,27 +16,11 @@ AI/ML engineer building intelligent systems with **LLMs, knowledge graphs, and d
 
 ## 💼 Experience
 
-**AI Research Intern** | BioMed X Institute | Apr 2025 – Present  
+**AI Research Intern** | BioMed X Institute | Nov 2024 – Sep 2025  
 Building AI agents with LangChain, LLMs, and knowledge graphs • CI/CD optimization • 100% test coverage
 
-**Software Engineer** | Tech Mahindra | 2022 – 2023  
+**Software Engineer** | Tech Mahindra | Aug 2021 – June 2023  
 Automated workflows with Python • 40% efficiency improvement • Award recognition
-
----
-
-## 🚀 Featured Projects
-
-**Voice RAG System**  
-Voice-enabled document Q&A using Whisper STT, Qdrant vector DB, and PlayAI-TTS  
-`Python` `Whisper` `Qdrant` `RAG` `NLP`
-
-**RAG Chatbot with LLAMA3**  
-Student Q&A system with retrieval-augmented generation  
-`Python` `LLAMA3` `Vector DB` `LangChain`
-
-**Data Pipeline Project**  
-End-to-end ETL with Docker, BigQuery, and Tableau  
-`Docker` `BigQuery` `ETL` `Tableau`
 
 ---
 
