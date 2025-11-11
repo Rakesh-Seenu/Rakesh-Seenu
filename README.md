@@ -26,7 +26,7 @@ Automated workflows with Python • 40% efficiency improvement • Award recogni
 
 ## 🚀 Featured Projects
 
-**VoxQuery - Voice RAG System**  
+**Voice RAG System**  
 Voice-enabled document Q&A using Whisper STT, Qdrant vector DB, and PlayAI-TTS  
 `Python` `Whisper` `Qdrant` `RAG` `NLP`
 
