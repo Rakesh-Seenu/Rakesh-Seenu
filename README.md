@@ -5,7 +5,7 @@
 - 🎓 M.Sc. in Applied Data Science | Background in Software Engineering  
 - 🤖 AI/ML Engineer working with *LLMs, NLP, Knowledge Graphs & AI Agents*
 - 🧠 Experience building *retrieval-augmented systems* using LangChain & vector databases
-- 🏥 Currently completing my Master’s thesis at **BioMed X Institute**, working on AI agents for systems biology
+- 🏥 Completed my Master’s thesis at **BioMed X Institute**, worked on AI agents for systems biology
 - ☁️ Hands-on with *cloud platforms (GCP, Azure)* and data pipelines
 - 🚀 Actively seeking **AI/ML & Data Engineering roles in Germany**
 - 📊 Interests: *machine learning, applied research, scalable AI systems*
